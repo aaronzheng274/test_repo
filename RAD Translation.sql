@@ -187,6 +187,9 @@ LEFT JOIN eventinfo														    -- Multiple Event_ID and Check In Time per 
 
 
 
+will this be easily merged
+
+
 
 
 
